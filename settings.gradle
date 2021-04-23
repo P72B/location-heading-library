@@ -1,0 +1,3 @@
+include ':heading'
+include ':app'
+rootProject.name = "location-heading-library"
