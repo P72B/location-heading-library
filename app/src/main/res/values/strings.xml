@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">location-heading-library</string>
+    <string name="title_activity_maps">Location heading indicator</string>
+</resources>
