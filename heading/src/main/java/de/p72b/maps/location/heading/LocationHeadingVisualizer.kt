@@ -28,7 +28,6 @@ class LocationHeadingVisualizer(
     private var currentBearing: Float? = null
 
     init {
-        locationManager.subscribeToLocationChanges(this)
         scopeActivity.application.registerActivityLifecycleCallbacks(this)
     }
 
